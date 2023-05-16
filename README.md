@@ -3,6 +3,13 @@
 
 
 
+```html
+源码阅读从router.go 开始
+来源：https://www.bilibili.com/video/BV1vB4y1n7km
+项目地址：https://github.com/szkjtv/ginblog
+项目简单的配置介绍：http://ecs.wwfeng3045.top:30056/deltel/112   （这个直接复制到浏览器打开）
+```
+
 # 编译
 在GoLand中
 ```bash
